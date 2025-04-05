@@ -40,6 +40,7 @@ npm start
 ```
 
 📈 Future Improvements
+
 Here are some planned features and ideas to improve the project:
 
 🔐 User Authentication: Add Sign In and Sign Up functionality
