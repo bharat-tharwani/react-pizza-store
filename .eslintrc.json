@@ -1,0 +1,10 @@
+{
+  "extends": "react-app",
+  "env": {
+    "node": true
+  },
+  "globals": {
+    "process": "readonly"
+    // "SUPABASE_KEY":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx3bmNrZ2x4dGNsd2p6ZXVieWVmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM4ODg3OTQsImV4cCI6MjA1OTQ2NDc5NH0.IXyUySRl5Bk2Ez6T3bF23uuuu3Dc9NljA3TxTKvV5yQ"
+  }
+}
